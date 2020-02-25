@@ -1,0 +1,9 @@
+name: AutoMine
+main: me.SoSDylan.AutoSmelt.AutoSmelt
+authors:
+  - SoSDylan
+  - zDev
+version: 1.0
+api-version: 1.13
+description: >
+             Drops iron and gold ingots when mining iron and gold. Updated version of zDev's AutoSmelt.
